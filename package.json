@@ -1,0 +1,24 @@
+{
+  "name": "bot-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeva-marianmoldovan/serverless-chatbot-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeva-marianmoldovan/serverless-chatbot-boilerplate/issues"
+  },
+  "homepage": "https://github.com/beeva-marianmoldovan/serverless-chatbot-boilerplate#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "claudia-bot-builder": "^2.15.0",
+    "huh": "^2.0.1"
+  }
+}
